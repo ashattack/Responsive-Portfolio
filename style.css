@@ -1,0 +1,9 @@
+body  {
+    background-color: pink;
+  }
+
+  .photo_list{
+    width:350px;
+    max-height: 350px;
+    padding: 10px; 
+}
