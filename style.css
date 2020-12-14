@@ -13,10 +13,8 @@ form {
   width: 50%;
 }
 
-footer {
-  position: fixed;
-  height: 100px;
+#sticky-footer {
   bottom: 0;
   width: 100%;
-  border: solid 5px black;
+  position: fixed;
 }
