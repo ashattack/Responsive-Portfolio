@@ -12,3 +12,11 @@ form {
   background: white;
   width: 50%;
 }
+
+footer {
+  position: fixed;
+  height: 100px;
+  bottom: 0;
+  width: 100%;
+  border: solid 5px black;
+}
