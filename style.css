@@ -1,5 +1,5 @@
 body  {
-    background-color: pink;
+    background-color: #D0D0D0;
     min-height: 400px;
     margin-bottom: 100px;
   }
@@ -16,10 +16,6 @@ body  {
 
   .card-title{
     margin-left: 10px;
-  }
-
-  hr {
-    width: 100%
   }
 
   .photo_list{
