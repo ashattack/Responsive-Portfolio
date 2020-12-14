@@ -11,6 +11,15 @@ body  {
 
   .cardimg{
     margin-bottom: 30px;
+    margin-left: 10px;
+  }
+
+  .card-title{
+    margin-left: 10px;
+  }
+
+  hr {
+    width: 100%
   }
 
   .photo_list{
