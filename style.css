@@ -2,6 +2,10 @@ body  {
     background-color: pink;
   }
 
+  .cardimg{
+    margin-bottom: 30px;
+  }
+
   .photo_list{
     width:350px;
     max-height: 350px;
