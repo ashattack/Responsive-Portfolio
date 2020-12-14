@@ -8,6 +8,10 @@ body  {
     padding: 10px; 
 }
 
+#flip {
+  margin-bottom: 30px;
+}
+
 form {
   background: white;
   width: 50%;
