@@ -7,3 +7,12 @@ body  {
     max-height: 350px;
     padding: 10px; 
 }
+
+form {
+  background: white;
+  width: 50%;
+  border: black;
+}
+
+
+ 
