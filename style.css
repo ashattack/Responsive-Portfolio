@@ -24,6 +24,11 @@ body  {
     padding: 10px; 
 }
 
+#pictureBox{
+  margin: 5em;
+  background: white;
+}
+
 #flip {
   margin-bottom: 30px;
 }
