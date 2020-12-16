@@ -1,37 +1,3 @@
-body  {
-  background-image: url("https://cutewallpaper.org/21/minimalist-laptop-backgrounds/90-Simple-Backgrounds-Edit-and-Download-Visual-Learning-.jpg");
-    min-height: 400px;
-    margin-bottom: 100px;
-  }
-
-  
-
-  #card {
-    margin-top: 30px;
-    
-  }
-
-  .cardimg{
-    margin-bottom: 30px;
-    margin-left: 10px;
-  }
-
-  .card-title{
-    margin-left: 10px;
-  }
-
-  .photo_list{
-    width:350px;
-    max-height: 350px;
-    padding: 10px; 
-}
-
-#pictureBox{
-  margin: 5em;
-  background: white;
-  margin-right: 10px;
-  
-}
 
 #flip {
   margin-bottom: 30px;
@@ -44,6 +10,37 @@ form {
   padding-top: 10px;
   padding-bottom: 10px;
   border: black 1px solid 
+}
+
+body {
+  background-image: url("https://i.pinimg.com/originals/75/dd/14/75dd14cdd96daff205a49d72abbc11ef.png");
+  min-height: 400px;
+  margin-bottom: 100px;
+}
+
+#card {
+  margin-top: 30px;  
+}
+
+.cardimg {
+  margin-bottom: 30px;
+  margin-left: 10px;
+}
+
+.card-title {
+  margin-left: 10px;
+}
+
+#pictureBox {
+  margin: 5em;
+  background: white;
+  margin-right: 10px; 
+}
+
+.photo_list {
+  width:350px;
+  max-height: 350px;
+  padding: 10px; 
 }
 
 #sticky-footer {
