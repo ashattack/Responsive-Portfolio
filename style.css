@@ -4,6 +4,8 @@ body  {
     margin-bottom: 100px;
   }
 
+  
+
   #card {
     margin-top: 30px;
     
@@ -27,6 +29,8 @@ body  {
 #pictureBox{
   margin: 5em;
   background: white;
+  margin-right: 10px;
+  
 }
 
 #flip {
