@@ -34,8 +34,6 @@ body {
 
 }
 
-#card {}
-
 .cardimg {
   margin-bottom: 30px;
   margin-left  : 10px;
@@ -61,12 +59,18 @@ body {
 
 }
 
+.display-4 {
+  margin-top : -40px;
+  font-family: 'sacramento', cursive;
+}
+
 .jumbotron {
   height          : 20px;
   font-family     : 'Sacramento', cursive;
   background-color: #fa9581;
 
 }
+
 
 #pictureBox {
   margin      : 5em;
